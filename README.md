@@ -10,7 +10,8 @@ Team MADD AWS Hackathon Solutions:
 
 > AI-Analytic-Dashboard 
 
-# Single Portal Submission (ChatBot)
+# Introduction of solutions
+## Single Portal Submission (ChatBot)
 
 **Preview** 
 
@@ -29,7 +30,7 @@ Team MADD AWS Hackathon Solutions:
  
  - Convenient and adoption is easy 
  
-# Automated Decision Engine (RPA)
+## Automated Decision Engine (RPA)
 
 **Preview**
 
@@ -43,7 +44,7 @@ Team MADD AWS Hackathon Solutions:
 
 - Response time to customer can be speed up 
 
-# AI Analytics Dashboard (Amazon QuickSight)
+## AI Analytics Dashboard (Amazon QuickSight)
 
 **Preview** 
 
@@ -58,3 +59,19 @@ Team MADD AWS Hackathon Solutions:
 - Tracks all the information at once and visualize user’s past performance
 
 - Actionable insights can be provided for AOs/POs
+
+# Demostration of Prototype 
+
+First, the user will need to go to our chatbot. Click the START button to start conversation with the Chatbot. 
+
+![image](https://user-images.githubusercontent.com/68961012/88904378-97f42800-d287-11ea-8a1b-e41373129059.png)
+
+Then the user will need to enter their name and email, after entering, they will be given 2 choices. Submit a claim or Q&A.
+
+![image](https://user-images.githubusercontent.com/68961012/88904874-37b1b600-d288-11ea-93bd-9bc0bac3acb3.png)
+
+For the purpose of demonstration, I will choose "Submit a claim". After choosing "Submit a claim", Chatbot will prompt the user with notification and a "Submit Appeal" button to redirect them to the website where they will submit their appeal. 
+
+![image](https://user-images.githubusercontent.com/68961012/88905612-084f7900-d289-11ea-91f9-faf3f7220b79.png)
+![image](https://user-images.githubusercontent.com/68961012/88905946-7300b480-d289-11ea-8ee6-c3083058520c.png)
+
