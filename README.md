@@ -87,3 +87,5 @@ Once the appeal case is submitted via the website, the ACRA Singtel Portal Submi
 Below are a picture to demonstrate the whole process:
 
 ![image](https://user-images.githubusercontent.com/68961012/88919510-c977ee00-d29d-11ea-8cae-d2a7ff397156.png)
+
+Meanwhile, another feature of our prototype is AI Analytics Dashboard (Amazon QuickSight). The purpose of this dashboard is to give the officer a quick glance on the business data of the applicant to speed up their decision process. Business data like: Annual Income of past years, 
