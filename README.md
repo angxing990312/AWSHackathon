@@ -75,3 +75,6 @@ For the purpose of demonstration, I will choose "Submit a claim". After choosing
 ![image](https://user-images.githubusercontent.com/68961012/88905612-084f7900-d289-11ea-91f9-faf3f7220b79.png)
 ![image](https://user-images.githubusercontent.com/68961012/88905946-7300b480-d289-11ea-8ee6-c3083058520c.png)
 
+When the user have entered the website, they will need to click "SUBMIT APPEAL" to submit their appeal. 
+
+![image](https://user-images.githubusercontent.com/68961012/88906275-d559b500-d289-11ea-93c8-7db3acc34602.png)
