@@ -33,7 +33,7 @@ Team MADD AWS Hackathon Solutions:
 
 **Preview**
 
-
+![image](https://user-images.githubusercontent.com/68961012/88885999-2f4b8200-d26c-11ea-9050-5de619429d4f.png)
 
 **Benefits** 
 
@@ -44,6 +44,10 @@ Team MADD AWS Hackathon Solutions:
 - Response time to customer can be speed up 
 
 # AI Analytics Dashboard (Amazon QuickSight)
+
+**Preview** 
+
+
 
 **Benefits** 
 
