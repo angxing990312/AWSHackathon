@@ -19,9 +19,11 @@ Team MADD AWS Hackathon Solutions:
  
  - Conversational Chatbot to communicate and answer users' enquiries. (Performed by Dialogflow)
  
- - Integrated with Amazon S3 Bucket.
+ - Users can get application status updates from chatbot 
  
- - Convenient and adoption is easy. 
+ - Integrated with Amazon S3 Bucket
+ 
+ - Convenient and adoption is easy 
  
 # Automated Decision Engine (RPA)
 
