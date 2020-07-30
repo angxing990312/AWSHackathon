@@ -60,7 +60,9 @@ Team MADD AWS Hackathon Solutions:
 
 - Actionable insights can be provided for AOs/POs
 
-# Demostration of Prototype 
+# Demostration of Prototype
+
+## 1. User part (Single Portal Submission (ChatBot))
 
 First, the user will need to go to our chatbot. Click the START button to start conversation with the Chatbot. 
 
@@ -78,3 +80,10 @@ For the purpose of demonstration, I will choose "Submit a claim". After choosing
 When the user have entered the website, they will need to click "SUBMIT APPEAL" to submit their appeal. 
 
 ![image](https://user-images.githubusercontent.com/68961012/88906275-d559b500-d289-11ea-93c8-7db3acc34602.png)
+
+## 2. Software part (Automated Decision Engine (RPA))
+
+Once the appeal case is submitted via the website, the ACRA Singtel Portal Submission will receive the case. Automated Decesion Engine(RPA) will be used to analyze the appeal case. If the case is acceptable, it will be sent to BizFile+ and stored in AWS S3 Bucket for further verification. Once verification of the case is done, Bizfile+ will send the result of appeal case to ACRA Single Portal Submission, then reply to the customer on result via TelegramChatBot. 
+Below are a picture to demonstrate the whole process:
+
+![image](https://user-images.githubusercontent.com/68961012/88919510-c977ee00-d29d-11ea-8cae-d2a7ff397156.png)
