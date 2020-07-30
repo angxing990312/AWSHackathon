@@ -1,6 +1,5 @@
 # AWSHackathon
-(Insert Graphic/ Team Logo) 
-(Find out how to paste image at a later time.)
+![Blue and Turquoise Triangular Automotive Logo (2)](https://user-images.githubusercontent.com/68961012/88884525-64a2a080-d269-11ea-9fda-794989faa7fc.jpg)
 
 Team MADD AWS Hackathon Solutions:
 3 Prong approach to ACRA's Problem statement. 
