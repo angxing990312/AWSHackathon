@@ -1,5 +1,5 @@
 # AWSHackathon
-![Blue and Turquoise Triangular Automotive Logo (2)](https://user-images.githubusercontent.com/68961012/88884525-64a2a080-d269-11ea-9fda-794989faa7fc.jpg)
+![image](https://user-images.githubusercontent.com/68961012/88884705-c06d2980-d269-11ea-9623-250678ee2120.png)
 
 Team MADD AWS Hackathon Solutions:
 3 Prong approach to ACRA's Problem statement. 
