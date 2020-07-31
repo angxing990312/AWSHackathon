@@ -48,7 +48,7 @@ Team MADD AWS Hackathon Solutions:
 
 **Preview** 
 
-![image](https://user-images.githubusercontent.com/68961012/88886266-aa149d00-d26c-11ea-9c24-539ed88ce23c.png)
+![image](https://user-images.githubusercontent.com/68961012/89003627-da267380-d332-11ea-98e5-9aed34730a2b.png)
 
 **Benefits** 
 
@@ -81,11 +81,16 @@ When the user have entered the website, they will need to click "SUBMIT APPEAL" 
 
 ![image](https://user-images.githubusercontent.com/68961012/88906275-d559b500-d289-11ea-93c8-7db3acc34602.png)
 
-## 2. Software part (Automated Decision Engine (RPA))
+## 2. Software part(1) (Automated Decision Engine (RPA))
 
 Once the appeal case is submitted via the website, the ACRA Singtel Portal Submission will receive the case. Automated Decesion Engine(RPA) will be used to analyze the appeal case. If the case is acceptable, it will be sent to BizFile+ and stored in AWS S3 Bucket for further verification. Once verification of the case is done, Bizfile+ will send the result of appeal case to ACRA Single Portal Submission, then reply to the customer on result via TelegramChatBot. 
 Below are a picture to demonstrate the whole process:
 
 ![image](https://user-images.githubusercontent.com/68961012/88919510-c977ee00-d29d-11ea-8cae-d2a7ff397156.png)
 
-Meanwhile, another feature of our prototype is AI Analytics Dashboard (Amazon QuickSight). The purpose of this dashboard is to give the officer a quick glance on the business data of the applicant to speed up their decision process. Business data like: Annual Income of past years, 
+## 2. Software part(2)  AI Analytics Dashboard (Amazon QuickSight)
+
+Meanwhile, another feature of our prototype is AI Analytics Dashboard (Amazon QuickSight). The purpose of this dashboard is to give the officer a quick glance on the business data of the applicant to speed up their decision process. Business data like: Average Company Credit Score, Overview of past Approved and rejected cases, Past Year Annual Income  by Case Number, Overview of past Appeal cases processing time and Status. The pictures below are some of the Dashboard generated using Quicksight:
+
+![image](https://user-images.githubusercontent.com/68961012/89003988-bdd70680-d333-11ea-8a4c-4ba3628a8a82.png)
+![image](https://user-images.githubusercontent.com/68961012/89003996-c16a8d80-d333-11ea-83dc-562f0b36be9a.png)
