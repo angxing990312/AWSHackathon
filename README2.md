@@ -25,12 +25,19 @@ Before you begin, ensure you have met the following requirements:
 
 ## Single Portal Submission(ChatBot)
 
-For the SPS, user must link Dialogflow to Telegram(Setting up of Chatbot).  
+For Single Portal Submission(SPS), An agent will be created in the DialogFlow Console, and various intents will be created according to the required context. Within the created intent, training phases should be inserted, to train the dialog Flow agent in order to capture user's responses. We can also set this response to a binary Click-button option. Follwing the selection of option, a Prompt for submission will be created, and once the user clicks on the button, it will direct them to a web server which is directly connected to the database used for processing these appeal cases. System entities(Object identifier) should be created to validate the User's personal details for the appeal submission.
+
+Lastly, the dialog Flow agent will be linked to the telegram platform ChatBot. (Other chatbots can also be link. e.g Facebook messenger, twitter and Viber)
+
+Step 1: Create a Telegram Bot through @Botfather. (Insert image)
+Step 2: Copy the generated token number.
+Step 3: Paste the Token number into the dialog Flow Agent through the "integrations" tab.(Insert image)
+Step 4: Enable Fulfillment (Connecting the WebHook)
 
 
 ## Automated Decision Engine(RPA)
 
-For the ADE, UIpath will receive appeal cases from SPS. Then UIpath will filter all the cases. Those acceptable cases(Details fully filled up, with supporting documents) will be routed to AWS S3 Bucket and BizFile+ for further verification. Not acceptable cases will be sent back to SPS. SPS will then inform the customer on the information they need to fill up in the appeal form. 
+For the Automated Decision Engine(ADE), UIpath will receive appeal cases from SPS. Then UIpath will filter all the cases. Those acceptable cases(Details fully filled up, with supporting documents) will be routed to AWS S3 Bucket and BizFile+ for further verification. Not acceptable cases will be sent back to SPS. SPS will then inform the customer on the information they need to fill up in the appeal form. 
 
 ## AI Analytic Dashboard(Amazon Quicksight) 
 
