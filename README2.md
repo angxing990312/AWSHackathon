@@ -37,8 +37,10 @@ For the ADE, UIpath will receive appeal cases from SPS. Then UIpath will filter 
 For the AIAD, it is used by the ACRA officer to assist them in making judgement on appeal cases. The officer can just simply upload the business data provided by customer onto QuickSight, generate charts using the data. 
 
 Charts for example: 
-> Average Company Credit Score
-> Overview of past Approved and rejected cases
-> Past Year Annual Income  by Case Number
-> Overview of past Appeal cases processing time and Status 
+
+- Average Company Credit Score
+- Overview of past Approved and rejected cases
+- Past Year Annual Income  by Case Number
+- Overview of past Appeal cases processing time and Status 
+
 From the above charts, it helps officers to make a final judgement on should they approve the case or reject it. 
