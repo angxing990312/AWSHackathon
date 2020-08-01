@@ -4,9 +4,9 @@
 MADD Technology aims to help ACRA resolve their current pain points in waiver appeal process. 
 
 # Content Page 
-> Prerequisites
-> Installation & Set-Up
-> Solution
+> 1. Prerequisites
+> 2. Installation & Set-Up
+> 3. Solution
 
 # Prerequisites
 
