@@ -4,9 +4,9 @@
 MADD Technology aims to help ACRA resolve their current pain points in waiver appeal process. 
 
 # Content Page 
-> 1. Single Portal Submission(ChatBot) 
-> 2. Automated Decision Engine(RPA)
-> 3. AI Analytic Dashboard(Amazon Quicksight) 
+> Prerequisites
+> Installation & Set-Up
+> Solution
 
 # Prerequisites
 
@@ -15,17 +15,17 @@ Before you begin, ensure you have met the following requirements:
 - Fully functional AWS account(QuickSight Service/S3 Bucket Database)
 - Website(Submission purpose)
 
-# Installation of Solution 
+# Installation & Set-Up
 
 - Install Dialogflow (URL: https://cloud.google.com/dialogflow/docs)
 - Installed Telegram (URL: https://desktop.telegram.org/)
 - Installed UIpath (URL: https://www.uipath.com/fr/start-trial)
 
-# Introduction of solutions
+# solution
 
 ## Single Portal Submission(ChatBot)
 
-For the SPS, user must link Dialogflow to Telegram(Setting up if Chatbot).  
+For the SPS, user must link Dialogflow to Telegram(Setting up of Chatbot).  
 
 
 ## Automated Decision Engine(RPA)
