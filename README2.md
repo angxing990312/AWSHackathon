@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 - Installed Telegram (URL: https://desktop.telegram.org/)
 - Installed UIpath (URL: https://www.uipath.com/fr/start-trial)
 
-# solution
+# Solution
 
 ## Single Portal Submission(ChatBot)
 
@@ -51,3 +51,4 @@ Charts for example:
 - Overview of past Appeal cases processing time and Status 
 
 From the above charts, it helps officers to make a final judgement on should they approve the case or reject it. 
+
