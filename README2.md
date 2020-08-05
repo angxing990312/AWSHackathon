@@ -13,13 +13,14 @@ MADD Technology aims to help ACRA resolve their current pain points in waiver ap
 Before you begin, ensure you have met the following requirements:
 
 - Fully functional AWS account(QuickSight Service/S3 Bucket Database)
-- Website(Submission purpose)
+- Website (Submission purpose)
 
 # Installation & Set-Up
 
 - Install Dialogflow (URL: https://cloud.google.com/dialogflow/docs)
 - Installed Telegram (URL: https://desktop.telegram.org/)
 - Installed UIpath (URL: https://www.uipath.com/fr/start-trial)
+- Installed Visual Studio (URL: https://visualstudio.microsoft.com/downloads/)
 
 # Solution
 
@@ -37,11 +38,11 @@ Step 4: Enable Fulfillment (Connecting the WebHook)
 
 ## Automated Decision Engine(RPA)
 
-For the Automated Decision Engine(ADE), UIpath will receive appeal cases from SPS. Then UIpath will filter all the cases. Those acceptable cases(Details fully filled up, with supporting documents) will be routed to AWS S3 Bucket and BizFile+ for further verification. Not acceptable cases will be sent back to SPS. SPS will then inform the customer on the information they need to fill up in the appeal form. 
+When the new case is being submitted, it would trigger UIPath to analyse the new cases. It would help to automate straightforward cases and eliminate the need for the officer to route the cases manually. A new record will be created for the acceptable cases(Details fully filled up, with supporting documents). Then, a template that contain relevant information will be created and all these document will be routed to officer for review. Not acceptable cases will be reject and a email will be sent to inform customer. 
 
 ## AI Analytic Dashboard(Amazon Quicksight) 
 
-For the AIAD, it is used by the ACRA officer to assist them in making judgement on appeal cases. The officer can just simply upload the business data provided by customer onto QuickSight, generate charts using the data. 
+For the AI Analytic Dashboard, it is used by the ACRA officer to assist them in making judgement on appeal cases. The implementation of Amazon Quicksight could help to integrate relevant dataset from different places, E.g. Acra database, Amazon S3 Bucket etc to generate a meaningful dashboard to provide a glanace view of applicant past performance. Different report can be created on top of these information to cater for different business need. Data can be visualize and generated as chart by integrating different data together. 
 
 Charts for example: 
 
